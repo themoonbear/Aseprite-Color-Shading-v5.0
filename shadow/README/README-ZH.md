@@ -33,7 +33,7 @@
 - 右键点击颜色：将该颜色设置为背景色。
 - 中键点击颜色：根据上次更改的是前景色还是背景色（如果 “自动选择” 已启用）在两者之间切换，并基于新颜色重新生成所有色调。
 
-###高级控制：
+### 高级控制：
 
 - 色温（暗 / 亮）：分别调整深色和浅色阴影的暖 / 冷色调偏移。
 - 强度：为色调色板添加饱和度渐变。
@@ -46,8 +46,8 @@
 - 确保你拥有 Aseprite 的最新版本以保证脚本兼容性。
 - 此脚本适用于需要快速生成调色板和颜色渐变工具的像素艺术家和设计师。
 
-<img width="363" alt="Color Shading v5.0" src="shadow/img/op1ZH.png">
-<img width="363" alt="Color Shading v5.0" src="shadow/img/op2ZH.png">
+<img width="363" alt="Color Shading v5.0" src="../img/op1ZH.png">
+<img width="363" alt="Color Shading v5.0" src="../img/op2ZH.png">
 
 ## 🌐 其他语言
 
