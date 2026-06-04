@@ -52,6 +52,7 @@ This version maintains previously introduced functionalities while adding additi
 
 ## 🌐 Other languages
 
+- ZH [Chinese Version](shadow/README/README-ZH.md)
 - 🇫🇷 [French Version](shadow/README/README-FR.md)
 - 🇪🇸 [Spanish Version](shadow/README/README-ES.md)
 - 🇯🇵 [Japanese Version](shadow/README/README-JA.md)
