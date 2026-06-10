@@ -257,7 +257,7 @@ local function createDialog()
   lastColor = FGcache
 
   dlg = Dialog {
-      title = "色彩色调",
+      title = "色彩着色",
       onclose = function()
           app.events:off(fgListenerCode)
           app.events:off(bgListenerCode)
